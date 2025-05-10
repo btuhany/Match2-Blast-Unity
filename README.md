@@ -1,8 +1,8 @@
 # Match2-Blast-Unity
 
-This repository was created to showcase my Match2/Blast game project. 
+This repository was created only to showcase my Match2/Blast game project. No source code included.
 
-To prevent direct replication of the work, the source code is not shared in this repository. 
+Since this is a portfolio project, I prefer to keep the source code private.
 
 You can watch the completed version of the project in the video: https://www.youtube.com/watch?v=7cIYQ_HcL7s
 
